@@ -9,7 +9,7 @@ export default function Index() {
    */
   return (
     <div className={styles.page}>
-      App 1
+      App 1 Updated from repo 1
       <br />
       <H1></H1>
     </div>
